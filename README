@@ -1,0 +1,6 @@
+# Update coverage's in petascopedb with new SRS
+# Autho: Bang Pham Huu - b.phamhuu@jacobs-university.de
+
+North covearges - http://access.planetserver.eu:8081/def/crs/PS/0/Mars-stereographic-north
+South coverages - http://access.planetserver.eu:8081/def/crs/PS/0/Mars-stereographic-south
+
